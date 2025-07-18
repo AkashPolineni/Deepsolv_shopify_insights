@@ -146,4 +146,4 @@ text
 
 ---
 
-## ⭐ Star this repo if it helped you, or fork it for your own portfolio project!
+
