@@ -1,0 +1,14 @@
+/* frontend/src/index.css  – replace entire file */
+html,body{
+  margin:0;
+  height:100%;
+  font-family: Inter,Roboto,Arial,sans-serif;
+  /* Cyan-to-midnight radial + tiny dots overlay */
+  background:
+    radial-gradient(circle at 10% 10%, #10263f 0%, #050505 60%),
+    url("/bg-dots.png");
+  background-size: cover, 220px;
+  color:#f0f0f0;
+}
+
+*{box-sizing:border-box;}

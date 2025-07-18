@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+env/
+*.sqlite3
+node_modules/
+dist/
+# VSCode/OS
+.vscode/
+.DS_Store
+*.db
