@@ -140,9 +140,9 @@ text
 
 ## 👨‍💻 Contact / Feedback
 
-- [AKASH POLINENI](https://github.com/AkashPolineni)  
+- [AKASH POLINENI - LinkedIn Profile](https://www.linkedin.com/in/akash-polineni-553773126/)  
 - [GitHub Issues page](https://github.com/AkashPolineni/shopify-insights-fetcher/issues)  
-- Or email: akashpolineni@gmail.com
+- Email: akashpolineni@gmail.com
 
 ---
 
