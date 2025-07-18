@@ -7,12 +7,10 @@ _A full-stack application built with FastAPI, React 19, Material-UI, SQLite, Doc
 
 ## 🚩 Quick Demo
 
-| Home / Input                | Main Insights Report            | Competitors Tab            | API Docs                    |
-|-----------------------------|-------------------------------|----------------------------|-----------------------------|
-|| Home / Input | Main Insights Report         | Competitors Tab            | API Docs                    |
+|    Home / Input   |      Main Insights Report       |       Competitors Tab          |         API Docs          |
 |--------------|-----------------------------|----------------------------|-----------------------------|
 | ![home](https://github.com/AkashPolineni/Deepsolv_shopify_insights/raw/main/screenshots/home.png) | ![insights](https://github.com/AkashPolineni/Deepsolv_shopify_insights/raw/main/screenshots/insights.png) | ![competitors](https://github.com/AkashPolineni/Deepsolv_shopify_insights/raw/main/screenshots/competitors.png) | ![api-docs](https://github.com/AkashPolineni/Deepsolv_shopify_insights/raw/main/screenshots/api-docs.png) |
- |
+ 
 
 ---
 
